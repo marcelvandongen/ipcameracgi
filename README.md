@@ -3,7 +3,9 @@ IP Camera component for older IP camera's for Home Assistant
 ---
 Instructions on how to integrate Foscam IP cameras within Home Assistant.
 
-The `ipcameracgi` platform allows you to watch the live stream of your IP Camera in Home Assistant.
+The `ipcameracgi` platform allows you to watch the live stream of your IP Camera in Home Assistant. Also, I your IP camera supports pan/tilt, you can control it in Home Assistant.
+
+The IP camera should support cgi commands such as videostream.cgi, decoder_control.cgi and snapshot.cgi. Full documentation about the IP Camera CGI functions can be found [here](ipcan_cgi_sdk).
 
 ## Configuration
 
