@@ -1,5 +1,7 @@
 # IPCameraCGI
 IP Camera component for older IP camera's for Home Assistant
+
+![Foscam Fi8908w](foscam_fi8908w.jpg)
 ---
 Instructions on how to integrate Foscam IP cameras within Home Assistant.
 
