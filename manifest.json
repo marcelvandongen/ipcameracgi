@@ -1,7 +1,7 @@
 {
   "domain": "ipcam",
   "name": "IPcam",
-  "documentation": "https://www.home-assistant.io/integrations/foscam",
+  "documentation": "https://github.com/marcelvandongen/ipcameracgi/blob/master/README.md",
   "requirements": [],
   "dependencies": [],
   "codeowners": "@netcraft"
