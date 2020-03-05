@@ -1,0 +1,8 @@
+{
+  "domain": "ipcam",
+  "name": "IPcam",
+  "documentation": "https://www.home-assistant.io/integrations/foscam",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": "@netcraft"
+}

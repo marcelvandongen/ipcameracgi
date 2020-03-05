@@ -1,0 +1,1 @@
+"""The ip camera component."""
